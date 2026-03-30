@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+iframe[id^="sb_open-sandbox"] {
+  display: none !important;
+}
