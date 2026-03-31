@@ -823,8 +823,7 @@ export default function App() {
             <span
               style={{ color: "#FF4757", animation: "blink 1.5s infinite" }}
             >
-              ● CLOSES TOMORROW
-            </span>
+              </span>
           </div>
         </div>
       )}
