@@ -2398,8 +2398,7 @@ export default function App() {
               textAlign: "right",
             }}
           >
-            * eBay prices based on Sold Listings — last 90 days · Live API in
-            production
+           * eBay AVG based on active fixed-price listings · Reflects current market ask, not confirmed sales
           </div>
         </div>
       )}
